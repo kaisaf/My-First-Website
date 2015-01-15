@@ -42,7 +42,6 @@
     display: block;
     border: 5px;
     padding: 10px;
-    color: black;
   }
   input[type="submit"] {
     background: red;

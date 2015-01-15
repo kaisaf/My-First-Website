@@ -43,4 +43,7 @@
     border: 5px;
     padding: 10px;
   }
+  input[type:submit] {
+    background: red;
+  }
   

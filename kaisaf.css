@@ -41,7 +41,8 @@
     background: gray;
   }
   img {
-  left: 100px:
+  position: relative;
+  left: 100px;
   border: 7px solid white;
   border-radius: 20px;
   }

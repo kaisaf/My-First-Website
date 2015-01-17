@@ -29,8 +29,10 @@
     margin-right: auto;
   }
   .nav li {
-    display: inline;
     background-color: gray;
+  }
+  ul {
+    padding: 10px;
   }
   img {
   position: relative;

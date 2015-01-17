@@ -54,4 +54,9 @@
   input[type="submit"] {
     background: red;
   }
+  @media(max-width: 400px) {
+    li {
+      display: block;
+    }
+  }
   

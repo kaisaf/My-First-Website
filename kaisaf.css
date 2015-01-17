@@ -28,6 +28,7 @@
   .nav li {
     text-align: center;
     background-color: gray;
+    padding: 10px;
   }
   ul {
     padding: 10px;

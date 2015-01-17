@@ -29,6 +29,7 @@
     margin-right: auto;
   }
   .nav li {
+    text-align: center;
     background-color: gray;
   }
   ul {

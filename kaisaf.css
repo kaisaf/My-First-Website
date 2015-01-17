@@ -25,12 +25,11 @@
     padding: 10px;
     text-align: center;
   }
-  .nav li {
+  li {
     text-align: center;
     background-color: gray;
-    padding: 10px;
   }
-  .nav ul {
+  ul {
     padding: 10px;
   }
   img {

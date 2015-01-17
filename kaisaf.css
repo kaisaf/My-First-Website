@@ -26,7 +26,9 @@
     text-align: center;
   }
   li {
+    display: inline;
     text-align: center;
+    padding: 0px 10px 0px 10px;
   }
   ul {
     padding: 0px;

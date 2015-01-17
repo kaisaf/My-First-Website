@@ -38,7 +38,7 @@
   }
   ul {
     padding: 10px;
-    background: gray;
+    background: rgba(0,0,0,0.5);
   }
   img {
   position: relative;

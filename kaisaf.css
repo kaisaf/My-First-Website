@@ -18,14 +18,7 @@
   font-size: 36px;
   text-align: center;
   }
-  .jumbotron {
-    padding: 60px;
-    background-image: 
-    url("http://upload.wikimedia.org/wikipedia/commons/2/2f/Pano_from_Aiguille_du_Midi_03.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    text-align: center;
-  }
+  
   p a {
     border: 2px solid #ffffff;
     padding: 10px;

@@ -35,7 +35,7 @@
   }
   img {
   position: relative;
-  left: 100px;
+  float: right;
   border: 7px solid white;
   border-radius: 20px;
   }

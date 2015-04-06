@@ -34,7 +34,7 @@
     background: rgba(0,0,0,0.5);
   }
   img {
-  float: right;
+  float: left;
   border: 7px solid white;
   border-radius: 20px;
   }

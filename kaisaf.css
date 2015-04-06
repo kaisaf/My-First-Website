@@ -43,14 +43,7 @@
   border: 7px solid white;
   border-radius: 20px;
   }
-  input {
-    display: block;
-    border: 5px;
-    padding: 10px;
-  }
-  input[type="submit"] {
-    background: red;
-  }
+
   @media(max-width: 400px) {
     li {
       display: block;

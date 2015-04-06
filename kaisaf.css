@@ -24,10 +24,15 @@
     padding: 10px;
     text-align: center;
   }
-  li {
+  header li {
     display: inline;
     text-align: center;
     padding: 0px 10px 0px 10px;
+  }
+  li {
+    display: block;
+    text-align: right;
+    
   }
   ul {
     padding: 10px;

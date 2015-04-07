@@ -74,6 +74,9 @@
     border-radius: 20px;
     padding: 10px;
   }
+  footer a {
+    color: blue;
+  }
 
 
   @media(max-width: 400px) {

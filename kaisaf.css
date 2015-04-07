@@ -53,6 +53,7 @@
     font-family: helvetica, sans-serif;
     font-size: 18px;
     line-height: 28px;
+    float: left;
   }
   .contact a {
     color: blue;

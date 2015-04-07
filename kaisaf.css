@@ -49,11 +49,13 @@
     border-radius: 20px;
     margin: 0 30px 0 0;
   }
-  .contact a {
-    float: left;
-    color: blue;
+  .contact {
     font-family: helvetica, sans-serif;
     line-height: 28px;
+    float: left;
+  }
+  .contact a {
+    color: blue;
   }
   .about p {
     font-size: 18px;

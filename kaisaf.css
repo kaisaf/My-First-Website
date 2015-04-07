@@ -92,6 +92,9 @@
     .about p {
       font-size: 12px;
     }
+    li {
+      line-height: 16px;
+    }
     footer {
       padding: 0;
     }

@@ -92,8 +92,11 @@
     .about p {
       font-size: 12px;
     }
+    .about h2 {
+      font-size: 18px;
+    }
     li {
-      line-height: 16px;
+      line-height: 0;
     }
     footer {
       padding: 0;

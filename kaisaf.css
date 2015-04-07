@@ -3,37 +3,33 @@
     color: black;
     font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
   }
-  
   header {
     background-image: 
     url("http://upload.wikimedia.org/wikipedia/commons/2/2f/Pano_from_Aiguille_du_Midi_03.jpg");
     background-size: cover;
-    text-align: center;
     border-radius: 20px;
+    text-align: center;
+    color: white;
     font-size: 32px;
     font-family: 'Lobster', cursive;
     padding: 10px 0 0 0;
-    color: white;
   }
-
-  p {
-    color: black;
-    font-size: 24px;
-    text-align: center;
-    margin-top: 50px;
-  }
-  
-  header li {
+    header li {
     display: inline;
     text-align: center;
     padding: 0px 20px 0px 20px;
     font-size: 28px;
     color: white;
   }
+  p {
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 50px;
+  }
   a {
     color: white;
   }
-  
   li {
     display: inline;
     text-align: left;
@@ -60,7 +56,6 @@
   }
   .about {
     text-align: center;
-    
   }
   .about h2 {
     font-size: 24px;
@@ -71,7 +66,6 @@
     margin: 0 35px 0 0;
     line-height: 24px;
   }
-  
   footer {
     background: silver;
     text-align: center;
@@ -81,7 +75,6 @@
   footer a {
     color: blue;
   }
-
 
   @media(max-width: 400px) {
     li {

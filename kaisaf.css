@@ -51,6 +51,7 @@
   }
   .contact {
     margin: auto;
+    margin-bottom: 40px;
   }
   .contact a {
     color: blue;

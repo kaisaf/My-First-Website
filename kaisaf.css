@@ -25,12 +25,12 @@
     border: 2px solid #ffffff;
     padding: 10px;
     text-align: center;
+    color: black;
   }
   header li {
     display: inline;
     text-align: center;
     padding: 0px 10px 0px 10px;
-    color: white;
   }
   li {
     display: block;
@@ -39,7 +39,8 @@
   }
   ul {
     padding: 10px;
-    background: rgba(0,0,0,0.5);
+    background: rgba(0,0,0,0.3);
+    border-radius: 20px;
   }
   img {
     float: left;

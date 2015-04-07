@@ -54,12 +54,14 @@
   }
   .about {
     text-align: center;
-    font-size: 24px;
+    font-size: 20px;
+    margin: 0 30px 0 30px;
   }
   .about p {
     font-size: 18px;
     font-family: helvetica, sans-serif;
     text-align: center;
+    margin-bottom: 30px;
   }
 
 

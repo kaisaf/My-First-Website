@@ -14,7 +14,7 @@
     font-family: 'Lobster', cursive;
     padding: 10px 0 0 0;
   }
-    header li {
+  header li {
     display: inline;
     text-align: center;
     padding: 0px 20px 0px 20px;
@@ -82,5 +82,8 @@
     }
     header {
       font-size: 20px;
+    }
+    p {
+      font-size: 12px;
     }
   }

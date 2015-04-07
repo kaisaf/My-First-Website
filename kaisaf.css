@@ -60,14 +60,16 @@
   }
   .about {
     text-align: center;
+    
+  }
+  .about h2 {
     font-size: 20px;
-    line-height: 24px;
-    margin: 0 35px 40px 35px;
   }
   .about p {
     font-size: 18px;
     font-family: helvetica, sans-serif;
-    text-align: center;
+    margin: 0 35px 40px 35px;
+    line-height: 24px;
   }
   
   footer {

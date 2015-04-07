@@ -41,8 +41,6 @@
   li {
     display: block;
     text-align: left;
-    position: absolute;
-    left: 350px;
   }
   ul {
     padding: 10px;

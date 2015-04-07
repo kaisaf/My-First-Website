@@ -51,15 +51,11 @@
   }
   .contact a {
     color: blue;
-    float: left;
-    display: inline;
   }
   .about p {
     font-size: 18px;
     font-family: helvetica, sans-serif;
     text-align: center;
-    float: right;
-    display: inline;
   }
 
 

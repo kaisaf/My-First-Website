@@ -31,6 +31,7 @@
     display: inline;
     text-align: center;
     padding: 0px 10px 0px 10px;
+    font-size: 20px;
     color: white;
   }
   li {
@@ -41,7 +42,7 @@
   ul {
     padding: 10px;
     background: rgba(0,0,0,0.3);
-    border-radius: 20px, 0;
+    border-radius: 20px;
   }
   img {
     float: left;

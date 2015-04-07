@@ -41,7 +41,7 @@
   li {
     display: block;
     text-align: left;
-    
+    margin: 0, 0, 0, 40px;
   }
   ul {
     padding: 10px;
@@ -52,7 +52,6 @@
   img {
     float: left;
     border-radius: 20px;
-    margin: 0, 20px, 0, 0;
   }
 
   @media(max-width: 400px) {

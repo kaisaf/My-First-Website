@@ -12,11 +12,11 @@
     color: white;
     font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
   }
-    p {
-  color: green;
-  font-family: "Courier", sans-serif;
-  font-size: 36px;
-  text-align: center;
+  p {
+    color: green;
+    font-family: "Courier", sans-serif;
+    font-size: 36px;
+    text-align: center;
   }
   
   p a {
@@ -39,9 +39,9 @@
     background: rgba(0,0,0,0.5);
   }
   img {
-  float: left;
-  border: 7px solid white;
-  border-radius: 20px;
+    float: left;
+    border: 7px solid white;
+    border-radius: 20px;
   }
 
   @media(max-width: 400px) {

@@ -86,7 +86,13 @@
     header li {
       font-size: 16px;
     }
+    p {
+      font-size: 16px;
+    }
     .about p {
       font-size: 12px;
+    }
+    footer {
+      padding: 0;
     }
   }

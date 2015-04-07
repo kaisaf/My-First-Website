@@ -45,23 +45,23 @@
     color: white;
   }
   img {
-    float: left;
+    
     border-radius: 20px;
     margin: 0 30px 0 0;
   }
   .contact a {
     color: blue;
+    margin: auto;
   }
   .about {
     text-align: center;
     font-size: 20px;
-    margin: 0 30px 0 30px;
+    margin: 0 30px 40px 30px;
   }
   .about p {
     font-size: 18px;
     font-family: helvetica, sans-serif;
     text-align: center;
-    margin-bottom: 30px;
   }
 
 

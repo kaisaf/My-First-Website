@@ -21,6 +21,12 @@
     font-size: 28px;
     color: white;
   }
+  ul {
+    padding: 10px;
+    background: rgba(0,0,0,0.3);
+    border-radius: 20px;
+    color: white;
+  }
   p {
     color: black;
     font-size: 24px;
@@ -38,12 +44,6 @@
     text-align: left;
     line-height: 28px;
     padding: 10px;
-  }
-  ul {
-    padding: 10px;
-    background: rgba(0,0,0,0.3);
-    border-radius: 20px;
-    color: white;
   }
   img {
     float: left;

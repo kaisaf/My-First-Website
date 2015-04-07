@@ -53,6 +53,10 @@
     float: left;
     border-radius: 20px;
   }
+  article a {
+    color: blue;
+  }
+
 
   @media(max-width: 400px) {
     li {

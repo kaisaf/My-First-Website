@@ -17,7 +17,7 @@
 
   p {
     color: black;
-    font-family: helvetica, sans-serif;
+    font-family: "Courier", sans-serif;
     font-size: 24px;
     text-align: center;
   }
@@ -49,26 +49,13 @@
     border-radius: 20px;
     margin: 0 30px 0 0;
   }
-  .contact {
-    font-family: helvetica, sans-serif;
-    font-size: 18px;
-    line-height: 28px;
-    float: left;
-    margin: 0 30px 0 0;
-  }
   .contact a {
     color: blue;
   }
   .about p {
     font-size: 18px;
     font-family: helvetica, sans-serif;
-    text-align: left;
-    max-width: 600px;
-    float: right;
-  }
-  .end {
-    font-family: "Courier", sans-serif;
-    font-size: 24px;
+    text-align: center;
   }
 
 
@@ -80,4 +67,3 @@
       font-size: 20px;
     }
   }
-  

@@ -55,10 +55,6 @@
   .contact a {
     color: blue;
   }
-  .contact {
-    margin: auto;
-  }
-
 
   @media(max-width: 400px) {
     li {

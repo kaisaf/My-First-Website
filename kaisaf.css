@@ -1,5 +1,5 @@
   body {
-    background-color: gray;
+    background-color: white;
   }
   header {
     background-image: 
@@ -9,7 +9,7 @@
   }
 
   * {
-    color: white;
+    color: black;
     font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
   }
   p {

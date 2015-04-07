@@ -21,12 +21,6 @@
     text-align: center;
   }
   
-  p a {
-    border: 2px solid #ffffff;
-    padding: 10px;
-    text-align: center;
-    color: black;
-  }
   header li {
     display: inline;
     text-align: center;
@@ -36,6 +30,12 @@
   }
   a {
     color: white;
+  }
+  p a {
+    border: 2px solid #ffffff;
+    padding: 10px;
+    text-align: center;
+    color: black;
   }
   
   li {

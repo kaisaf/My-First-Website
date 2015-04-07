@@ -49,9 +49,11 @@
     border-radius: 20px;
     margin: 0 30px 0 0;
   }
+  .contact {
+    margin: auto;
+  }
   .contact a {
     color: blue;
-    margin: auto;
   }
   .about {
     text-align: center;

@@ -76,14 +76,17 @@
     color: blue;
   }
 
-  @media(max-width: 400px) {
+  @media(max-width: 500px) {
     li {
       display: block;
     }
     header {
       font-size: 20px;
     }
-    p {
+    header li {
+      font-size: 16px;
+    }
+    .about p {
       font-size: 12px;
     }
   }

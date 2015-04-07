@@ -51,7 +51,7 @@
   }
   .contact a {
     color: blue;
-    position: relative;
+    position: justify;
     
   }
   .about p {
@@ -59,7 +59,7 @@
     font-family: helvetica, sans-serif;
     text-align: center;
     position: absolute;
-    margin: 0 0 50px 0;
+    margin: 0 0 500px 0;
   }
 
 

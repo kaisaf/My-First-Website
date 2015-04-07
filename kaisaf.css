@@ -51,7 +51,7 @@
   }
   .contact a {
     color: blue;
-    display: inline;
+    float: left;
   }
   .about p {
     font-size: 18px;

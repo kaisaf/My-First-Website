@@ -67,7 +67,9 @@
   }
   
   footer {
-    background: rgba(0,0,100,0.3);
+    background: rgba(0,0,176,0.3);
+    text-align: center;
+    border-radius: 20px;
   }
 
 

@@ -41,7 +41,6 @@
   li {
     display: block;
     text-align: left;
-    margin: 0, 0, 0, 330px;
   }
   ul {
     padding: 10px;
@@ -52,7 +51,6 @@
   img {
     float: left;
     border-radius: 20px;
-    position: relative;
   }
   .contact a {
     color: blue;

@@ -51,13 +51,14 @@
   }
   .contact a {
     color: blue;
+    position: relative;
     
   }
   .about p {
     font-size: 18px;
     font-family: helvetica, sans-serif;
     text-align: center;
-    position: relative;
+    position: absolute;
   }
 
 

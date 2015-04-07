@@ -1,6 +1,12 @@
   body {
     background-color: white;
   }
+  
+  * {
+    color: black;
+    font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+  }
+  
   header {
     background-image: 
     url("http://upload.wikimedia.org/wikipedia/commons/2/2f/Pano_from_Aiguille_du_Midi_03.jpg");
@@ -10,10 +16,6 @@
     color: white;
   }
 
-  * {
-    color: black;
-    font-family: "Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
-  }
   p {
     color: green;
     font-family: "Courier", sans-serif;
